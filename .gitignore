@@ -1,4 +1,4 @@
 test.ipynb
-pytube/*
+pytube
 __pycache__/*
 videos/*
